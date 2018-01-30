@@ -305,6 +305,26 @@ extern "C" void GUIStyleState_t1397964415_marshal_pinvoke(void* managedStructure
 extern "C" void GUIStyleState_t1397964415_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
 extern "C" void GUIStyleState_t1397964415_marshal_pinvoke_cleanup(void* marshaledStructure);
 extern const RuntimeType GUIStyleState_t1397964415_0_0_0;
+extern "C" void EmissionModule_t311448003_marshal_pinvoke(void* managedStructure, void* marshaledStructure);
+extern "C" void EmissionModule_t311448003_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
+extern "C" void EmissionModule_t311448003_marshal_pinvoke_cleanup(void* marshaledStructure);
+extern const RuntimeType EmissionModule_t311448003_0_0_0;
+extern "C" void MainModule_t2320046318_marshal_pinvoke(void* managedStructure, void* marshaledStructure);
+extern "C" void MainModule_t2320046318_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
+extern "C" void MainModule_t2320046318_marshal_pinvoke_cleanup(void* marshaledStructure);
+extern const RuntimeType MainModule_t2320046318_0_0_0;
+extern "C" void MinMaxCurve_t1067599125_marshal_pinvoke(void* managedStructure, void* marshaledStructure);
+extern "C" void MinMaxCurve_t1067599125_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
+extern "C" void MinMaxCurve_t1067599125_marshal_pinvoke_cleanup(void* marshaledStructure);
+extern const RuntimeType MinMaxCurve_t1067599125_0_0_0;
+extern "C" void Collision_t4262080450_marshal_pinvoke(void* managedStructure, void* marshaledStructure);
+extern "C" void Collision_t4262080450_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
+extern "C" void Collision_t4262080450_marshal_pinvoke_cleanup(void* marshaledStructure);
+extern const RuntimeType Collision_t4262080450_0_0_0;
+extern "C" void ControllerColliderHit_t240592346_marshal_pinvoke(void* managedStructure, void* marshaledStructure);
+extern "C" void ControllerColliderHit_t240592346_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
+extern "C" void ControllerColliderHit_t240592346_marshal_pinvoke_cleanup(void* marshaledStructure);
+extern const RuntimeType ControllerColliderHit_t240592346_0_0_0;
 extern "C" void RaycastHit_t1056001966_marshal_pinvoke(void* managedStructure, void* marshaledStructure);
 extern "C" void RaycastHit_t1056001966_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
 extern "C" void RaycastHit_t1056001966_marshal_pinvoke_cleanup(void* marshaledStructure);
@@ -341,7 +361,7 @@ extern "C" void SpriteState_t1362986479_marshal_pinvoke(void* managedStructure, 
 extern "C" void SpriteState_t1362986479_marshal_pinvoke_back(void* marshaledStructure, void* managedStructure);
 extern "C" void SpriteState_t1362986479_marshal_pinvoke_cleanup(void* marshaledStructure);
 extern const RuntimeType SpriteState_t1362986479_0_0_0;
-extern Il2CppInteropData g_Il2CppInteropData[95] = 
+extern Il2CppInteropData g_Il2CppInteropData[100] = 
 {
 	{ NULL, Context_t1744531130_marshal_pinvoke, Context_t1744531130_marshal_pinvoke_back, Context_t1744531130_marshal_pinvoke_cleanup, NULL, NULL, &Context_t1744531130_0_0_0 } /* Mono.Globalization.Unicode.SimpleCollator/Context */,
 	{ NULL, Escape_t3294788190_marshal_pinvoke, Escape_t3294788190_marshal_pinvoke_back, Escape_t3294788190_marshal_pinvoke_cleanup, NULL, NULL, &Escape_t3294788190_0_0_0 } /* Mono.Globalization.Unicode.SimpleCollator/Escape */,
@@ -426,6 +446,11 @@ extern Il2CppInteropData g_Il2CppInteropData[95] =
 	{ DelegatePInvokeWrapper_SkinChangedDelegate_t1143955295, NULL, NULL, NULL, NULL, NULL, &SkinChangedDelegate_t1143955295_0_0_0 } /* UnityEngine.GUISkin/SkinChangedDelegate */,
 	{ NULL, GUIStyle_t3956901511_marshal_pinvoke, GUIStyle_t3956901511_marshal_pinvoke_back, GUIStyle_t3956901511_marshal_pinvoke_cleanup, NULL, NULL, &GUIStyle_t3956901511_0_0_0 } /* UnityEngine.GUIStyle */,
 	{ NULL, GUIStyleState_t1397964415_marshal_pinvoke, GUIStyleState_t1397964415_marshal_pinvoke_back, GUIStyleState_t1397964415_marshal_pinvoke_cleanup, NULL, NULL, &GUIStyleState_t1397964415_0_0_0 } /* UnityEngine.GUIStyleState */,
+	{ NULL, EmissionModule_t311448003_marshal_pinvoke, EmissionModule_t311448003_marshal_pinvoke_back, EmissionModule_t311448003_marshal_pinvoke_cleanup, NULL, NULL, &EmissionModule_t311448003_0_0_0 } /* UnityEngine.ParticleSystem/EmissionModule */,
+	{ NULL, MainModule_t2320046318_marshal_pinvoke, MainModule_t2320046318_marshal_pinvoke_back, MainModule_t2320046318_marshal_pinvoke_cleanup, NULL, NULL, &MainModule_t2320046318_0_0_0 } /* UnityEngine.ParticleSystem/MainModule */,
+	{ NULL, MinMaxCurve_t1067599125_marshal_pinvoke, MinMaxCurve_t1067599125_marshal_pinvoke_back, MinMaxCurve_t1067599125_marshal_pinvoke_cleanup, NULL, NULL, &MinMaxCurve_t1067599125_0_0_0 } /* UnityEngine.ParticleSystem/MinMaxCurve */,
+	{ NULL, Collision_t4262080450_marshal_pinvoke, Collision_t4262080450_marshal_pinvoke_back, Collision_t4262080450_marshal_pinvoke_cleanup, NULL, NULL, &Collision_t4262080450_0_0_0 } /* UnityEngine.Collision */,
+	{ NULL, ControllerColliderHit_t240592346_marshal_pinvoke, ControllerColliderHit_t240592346_marshal_pinvoke_back, ControllerColliderHit_t240592346_marshal_pinvoke_cleanup, NULL, NULL, &ControllerColliderHit_t240592346_0_0_0 } /* UnityEngine.ControllerColliderHit */,
 	{ NULL, RaycastHit_t1056001966_marshal_pinvoke, RaycastHit_t1056001966_marshal_pinvoke_back, RaycastHit_t1056001966_marshal_pinvoke_cleanup, NULL, NULL, &RaycastHit_t1056001966_0_0_0 } /* UnityEngine.RaycastHit */,
 	{ DelegatePInvokeWrapper_WillRenderCanvases_t3309123499, NULL, NULL, NULL, NULL, NULL, &WillRenderCanvases_t3309123499_0_0_0 } /* UnityEngine.Canvas/WillRenderCanvases */,
 	{ DelegatePInvokeWrapper_SessionStateChanged_t3163629820, NULL, NULL, NULL, NULL, NULL, &SessionStateChanged_t3163629820_0_0_0 } /* UnityEngine.Analytics.AnalyticsSessionInfo/SessionStateChanged */,
