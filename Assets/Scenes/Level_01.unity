@@ -168,6 +168,21 @@ Prefab:
       propertyPath: m_Name
       value: FourGroundSegments_1
       objectReference: {fileID: 0}
+    - target: {fileID: 61820625732743816, guid: e9e4966de58fa43d58e7b2052486d85d,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: 0.12415457
+      objectReference: {fileID: 0}
+    - target: {fileID: 61820625732743816, guid: e9e4966de58fa43d58e7b2052486d85d,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.10738294
+      objectReference: {fileID: 0}
+    - target: {fileID: 61820625732743816, guid: e9e4966de58fa43d58e7b2052486d85d,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.82523406
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e9e4966de58fa43d58e7b2052486d85d, type: 2}
   m_IsPrefabParent: 0
@@ -285,7 +300,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.24048871, y: 0.36277202}
+  m_Offset: {x: 0.24048871, y: 0.3721623}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -296,7 +311,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.348755, y: 0.57138675}
+  m_Size: {x: 0.348755, y: 0.59016734}
   m_EdgeRadius: 0
 --- !u!224 &386947921
 RectTransform:
@@ -1005,6 +1020,21 @@ Prefab:
       propertyPath: m_LocalPosition.y
       value: -0.214
       objectReference: {fileID: 0}
+    - target: {fileID: 61820625732743816, guid: e9e4966de58fa43d58e7b2052486d85d,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: 0.12415457
+      objectReference: {fileID: 0}
+    - target: {fileID: 61820625732743816, guid: e9e4966de58fa43d58e7b2052486d85d,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.109711915
+      objectReference: {fileID: 0}
+    - target: {fileID: 61820625732743816, guid: e9e4966de58fa43d58e7b2052486d85d,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.82057613
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e9e4966de58fa43d58e7b2052486d85d, type: 2}
   m_IsPrefabParent: 0
@@ -1326,6 +1356,16 @@ Prefab:
       propertyPath: m_Name
       value: TwoGroundSegments_1
       objectReference: {fileID: 0}
+    - target: {fileID: 61258714991914142, guid: 17cd218d41ae14d09a3f729646b1b58e,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.1076183
+      objectReference: {fileID: 0}
+    - target: {fileID: 61258714991914142, guid: 17cd218d41ae14d09a3f729646b1b58e,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.82476336
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 17cd218d41ae14d09a3f729646b1b58e, type: 2}
   m_IsPrefabParent: 0
@@ -1545,6 +1585,16 @@ Prefab:
     - target: {fileID: 4100302211988116, guid: 17cd218d41ae14d09a3f729646b1b58e, type: 2}
       propertyPath: m_LocalPosition.y
       value: -0.214
+      objectReference: {fileID: 0}
+    - target: {fileID: 61258714991914142, guid: 17cd218d41ae14d09a3f729646b1b58e,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.1076183
+      objectReference: {fileID: 0}
+    - target: {fileID: 61258714991914142, guid: 17cd218d41ae14d09a3f729646b1b58e,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 0.82476336
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 17cd218d41ae14d09a3f729646b1b58e, type: 2}

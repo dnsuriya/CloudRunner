@@ -377,12 +377,12 @@ Prefab:
     - target: {fileID: 61253784124582600, guid: 686fcda23a66d48448d009a3ff2c1bb5,
         type: 2}
       propertyPath: m_Offset.x
-      value: 0.0007183999
+      value: -0.015355751
       objectReference: {fileID: 0}
     - target: {fileID: 61253784124582600, guid: 686fcda23a66d48448d009a3ff2c1bb5,
         type: 2}
       propertyPath: m_Size.x
-      value: 0.9651978
+      value: 0.93304944
       objectReference: {fileID: 0}
     - target: {fileID: 61793960327146808, guid: 686fcda23a66d48448d009a3ff2c1bb5,
         type: 2}
@@ -1323,6 +1323,26 @@ Prefab:
     - target: {fileID: 1212936803334078, guid: 686fcda23a66d48448d009a3ff2c1bb5, type: 2}
       propertyPath: m_Name
       value: Enemy_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 61253784124582600, guid: 686fcda23a66d48448d009a3ff2c1bb5,
+        type: 2}
+      propertyPath: m_Offset.y
+      value: -0.07550597
+      objectReference: {fileID: 0}
+    - target: {fileID: 61253784124582600, guid: 686fcda23a66d48448d009a3ff2c1bb5,
+        type: 2}
+      propertyPath: m_Size.y
+      value: 1.5489881
+      objectReference: {fileID: 0}
+    - target: {fileID: 61253784124582600, guid: 686fcda23a66d48448d009a3ff2c1bb5,
+        type: 2}
+      propertyPath: m_Offset.x
+      value: 0.00000010430813
+      objectReference: {fileID: 0}
+    - target: {fileID: 61253784124582600, guid: 686fcda23a66d48448d009a3ff2c1bb5,
+        type: 2}
+      propertyPath: m_Size.x
+      value: 0.94302845
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 686fcda23a66d48448d009a3ff2c1bb5, type: 2}

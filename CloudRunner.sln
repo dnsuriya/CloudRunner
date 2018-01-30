@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio for Mac
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudRunner", "CloudRunner.csproj", "{31A79DA3-6BE4-2945-5B28-8ED94940BAD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudRunner.Plugins", "CloudRunner.Plugins.csproj", "{B602DEEC-0D41-47FF-FA2F-C34D38348AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudRunner.Editor.Plugins", "CloudRunner.Editor.Plugins.csproj", "{BEF0506C-0387-3DA5-C89A-1468A62DFBEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{31A79DA3-6BE4-2945-5B28-8ED94940BAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31A79DA3-6BE4-2945-5B28-8ED94940BAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31A79DA3-6BE4-2945-5B28-8ED94940BAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B602DEEC-0D41-47FF-FA2F-C34D38348AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B602DEEC-0D41-47FF-FA2F-C34D38348AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B602DEEC-0D41-47FF-FA2F-C34D38348AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B602DEEC-0D41-47FF-FA2F-C34D38348AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF0506C-0387-3DA5-C89A-1468A62DFBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF0506C-0387-3DA5-C89A-1468A62DFBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF0506C-0387-3DA5-C89A-1468A62DFBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF0506C-0387-3DA5-C89A-1468A62DFBEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

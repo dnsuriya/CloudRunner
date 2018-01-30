@@ -1,7 +1,20 @@
 ﻿<Properties StartupConfiguration="{31A79DA3-6BE4-2945-5B28-8ED94940BAD8}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs">
     <Files>
-      <File FileName="Assets/Scripts/CameraMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="24" Column="53" />
+      <File FileName="Assets/Scripts/DeathTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DrawLine.cs" Line="104" Column="27" />
+      <File FileName="Assets/Scripts/EnemyMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Gate.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MissileMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/StartGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TrggerPlatform.cs" Line="20" Column="42" />
+      <File FileName="Assets/Scripts/MovingPlatform.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SpriteHider.cs" Line="13" Column="6" />
+      <File FileName="Assets/Scripts/Player_Move.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UnityMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets/ParticleSystems/Scripts/Explosive.cs" Line="4" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

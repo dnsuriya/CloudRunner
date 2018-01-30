@@ -21,7 +21,7 @@ public class CameraMovement : MonoBehaviour
 		m_player = GameObject.FindGameObjectWithTag ("Player");
 
         m_xMin = m_startGate.transform.position.x + 8;
-        m_xMax = m_endGate.transform.position.x - 10;
+        m_xMax = m_endGate.transform.position.x - 6;
 
 
     }
